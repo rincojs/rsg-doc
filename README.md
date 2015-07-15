@@ -1,2 +1,2 @@
 # rsg-doc
-Documentation template
+Documentation's template
